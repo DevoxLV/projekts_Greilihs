@@ -1,2 +1,3 @@
-# projekts_Greilihs
-projekts programmēšanā
+# Projekts_Greilihs   
+Projekts programmēšanā
+Jelgavas Spīdolas Valsts ģimnāzija
